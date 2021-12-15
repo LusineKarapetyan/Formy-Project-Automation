@@ -1,4 +1,4 @@
-# Formy-Project-Automation
+# Formy Project Automation web elements checking
 Presented tests are being run using Selenium tool (Jave) on https://formy-project.herokuapp.com/ website. The web elements are being tested, particularly <br>
 02-02 – keyboard and mouse input <br>
 02-04 – scroll to element <br>
