@@ -1,5 +1,16 @@
-# Formy Project Automation web elements checking
-Presented tests are being run using Selenium tool (Jave) on https://formy-project.herokuapp.com/ website. The web elements are being tested, particularly <br>
+<H1>Automation Tests with Selenium tool for Web Elements</H1> <br>
+<img src="https://github.com/LusineKarapetyan/Formy-Project-Automation-Web-elements-checking/blob/master/selenium-webdriver-java-online-courses-techtutorr.jpg" /><br>
+This is the repository for the Learning course Selenium (Java) for Web Elements Testing Automation. 
+The source of the web elements being tested is located under below link <Br>
+https://formy-project.herokuapp.com/ <br>
+  
+  <H1>Instructions</H1><br>
+  To use this exercise files you must have the following installed:<br>
+1. Install Java SDK <br>
+2. Install IntelliJ IDEA <br>
+3. Install Selenium Webdriver Files <br>
+  
+  <H2>The Tests Include</H2>
 02-02 – keyboard and mouse input <br>
 02-04 – scroll to element <br>
 02-05 – switch to active window <br>
